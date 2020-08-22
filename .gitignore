@@ -11,6 +11,9 @@
 # production
 /build
 
+# reasonml
+/lib/bs
+
 # misc
 .DS_Store
 .env.local
